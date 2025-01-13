@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Screenmatch
 
 This project was developed during the course **Java: Data Persistence and Queries with Spring Data JPA** by Alura.
